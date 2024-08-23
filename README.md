@@ -2,14 +2,14 @@
 
 I'm conscientious web developer from Finland. I like to develop security systems and create applications and websites.
 ##
-🛠️ Technologies & Tools
+## 🛠️ Technologies & Tools
 
 - HTML
 - CSS
 - JavaScript
 - Java
 
-   ##I’m currently learning📖
+## I’m currently learning📖
 
   Right now I'm interested learning about C# forms and Javascript.
 
