@@ -16,7 +16,7 @@ I'm conscientious web developer from Finland. I like to develop security systems
 ## Github Stats 📈
 ![Your Name's GitHub stats](https://github-readme-stats.vercel.app/api?username=Oskar879&show_icons=true&theme=radical)
 
-## Contact me
+## Contact me 📞
 Email: oskar.molsa@gmail.com
 
 Contact to me anytime!
