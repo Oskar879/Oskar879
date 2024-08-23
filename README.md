@@ -1,4 +1,4 @@
-## Hello traveler ,I'm Oskar Mölsä 😎
+## Hello traveler, I'm Oskar Mölsä 😎
 
 I'm conscientious web developer from Finland. I like to develop security systems and create applications and websites.
 
@@ -17,7 +17,7 @@ I'm conscientious web developer from Finland. I like to develop security systems
 ![Your Name's GitHub stats](https://github-readme-stats.vercel.app/api?username=Oskar879&show_icons=true&theme=radical)
 
 ## Projects
-⬇You can watch my projects in "Public Repositorys" partition⬇
+⬇You can watch my projects in "Public repositories" partition⬇
 
 ## Contact me 📞
 Email: oskar.molsa@gmail.com
