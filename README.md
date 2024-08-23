@@ -10,6 +10,8 @@ I'm conscientious web developer from Finland. I like to develop security systems
 - Java
 
   ##
+  kjk
+  k
 <!--
 **Oskar879/Oskar879** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
