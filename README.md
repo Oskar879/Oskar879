@@ -1,7 +1,7 @@
 ## Hello traveler ,I'm Oskar Mölsä 😎
 
 I'm conscientious web developer from Finland. I like to develop security systems and create applications and websites.
-##
+
 ## 🛠️ Technologies & Tools
 
 - HTML
@@ -9,11 +9,12 @@ I'm conscientious web developer from Finland. I like to develop security systems
 - JavaScript
 - Java
 
-## Currently learning📖
+## Currently Learning 📖
 
   Right now I'm interested learning about C# forms and Javascript.
 
-  
+## Github Stats 📈
+![Your Name's GitHub stats](https://github-readme-stats.vercel.app/api?username=käyttäjänimi&show_icons=true&theme=radical)
 
 <!--
 **Oskar879/Oskar879** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
