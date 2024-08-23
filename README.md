@@ -9,7 +9,7 @@ I'm conscientious web developer from Finland. I like to develop security systems
 - JavaScript
 - Java
 
-## I’m currently learning📖
+## Currently learning📖
 
   Right now I'm interested learning about C# forms and Javascript.
 
