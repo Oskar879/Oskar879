@@ -1,8 +1,15 @@
 ## Hello traveler ,I'm Oskar Mölsä 😎
 
-I'm conscientious web developer from Finland. My interests are
+I'm conscientious web developer from Finland. I like to develop security systems and create applications and websites.
 ##
+🔧 Technologies & Tools
 
+- React
+- TypeScript
+- HTML
+- CSS
+- JavaScript
+- Java
 <!--
 **Oskar879/Oskar879** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
